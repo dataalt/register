@@ -1,0 +1,13 @@
+{
+    "description": "yeah"
+    "subdomain": "datathing",
+    "owner": {
+        "repo": "https://github.com/dataalt",
+        "email": "datanotaltin2gmail.com"
+    },
+
+    "record": {
+        "A": ["152.67.45.142"]
+    },
+    "proxied": false
+}
